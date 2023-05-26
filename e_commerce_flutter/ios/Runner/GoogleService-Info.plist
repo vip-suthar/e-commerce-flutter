@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>719679872206-j4sg881m9f2gn2uvdg6h3dnns10fsh9a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.719679872206-j4sg881m9f2gn2uvdg6h3dnns10fsh9a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBEta0659Tkrnszd2Y2eEgpIWH8oL5A4DU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>719679872206</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.eCommerceFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>shubhrajyoti-shoppers</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shubhrajyoti-shoppers.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:719679872206:ios:1f83e26e085af18150849f</string>
+</dict>
+</plist>
